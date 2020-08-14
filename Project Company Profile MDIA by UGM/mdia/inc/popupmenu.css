@@ -1,0 +1,51 @@
+@font-face {
+ 	font-family: Gotham-Light;
+ 	src: url('gotham-book-N.woff');
+ 	}
+
+.jqpopupmenu, .jqpopupmenu ul{ /*topmost and sub ULs, respectively*/
+font: normal 12px Gotham-Light;
+margin: 0;
+padding: 0;
+position: absolute;
+left: 0;
+top: 0;
+list-style-type: none;
+background: white;
+border: 1px #ccc;
+visibility: hidden;
+display: none; /*collapse all sub menus to begin with*/
+box-shadow: 1px 1px 4px #818181; /*shadow for CSS3 capable browsers.*/
+-webkit-box-shadow: 1px 1px 4px #818181;
+-moz-box-shadow: 1px 1px 4px #818181;
+}
+
+
+.jqpopupmenu li{
+position: relative;
+}
+
+.jqpopupmenu li a{
+ display: inline-block;
+width: 160px; /*width of menu (not including side paddings)*/
+color: #333;
+background: #fff;
+text-decoration: none;
+padding: 4px 5px;
+}
+
+* html .jqpopupmenu li{ /*IE6 CSS hack*/
+display: inline-table;
+width: 170px; /*width of menu (include side paddings of LI A*/
+}
+
+.jqpopupmenu li a:hover, .jqpopupmenu li.selected>a{
+background: #eee;
+}
+
+.rightarrowclass{
+position: absolute;
+top: 6px;
+right: 5px;
+}
+

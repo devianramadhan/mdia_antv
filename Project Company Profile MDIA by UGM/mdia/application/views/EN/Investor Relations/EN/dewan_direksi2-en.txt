@@ -1,0 +1,53 @@
+<div id="posting2">
+	<div style="width:20%; float:left">
+    	<img src="direksi/ErickThohir.jpg" alt="Erick Thohir" id="thumbnail" width="141" height="204" />
+	</div>
+
+	<div style="width:80%; float:left">
+        <h2>Erick Thohir</h2>
+        <span class="red">PRESIDENT DIRECTOR</span>
+        <p>Indonesian Citizen, born in Jakarta in 1970.</p>
+        
+        <h3>WORK EXPERIENCE</h3>
+        <p>Served as the President Director of the Company since 2013. Currently he serves as Vice President Commissioner of PT Visi Media Asia Tbk. since 2015, President Director of PT Cakrawala Andalas Televisi since 2013, President Commissioner of PT Redal Semesta, Commissioner of PT Asia Global Media, PT Viva Media Baru, and PT Lativi Mediakarya since 2012, Commissioner PT Beyond Media, Director of PT Trinugraha Thohir Partners  since 2011, Commissioner of PT Mahaka Media Tbk. since 2008, President Commissioner of PT Entertainment Live since 2008.</p>
+        
+        <h3>EDUCATION</h3>
+        <p>Erick Thohir received an Associate of Arts degree majoring in Communication from Glendale College, California, USA in 1990, a Bachelor of Arts degree majoring in Advertising from American College, California, USA in 1991, and a Master of Business Administration degree majoring in Marketing from National University, California, USA in 1993.</p>
+	</div>
+</div>    <!--1-->
+
+    <div id="posting2">
+	<div style="width:20%; float:left">
+    	<img src="direksi/RMHarlinErliantoRahardjo.jpg" alt="RM Harlin Erlianto Rahardjo" id="thumbnail" width="141" height="204" />
+	</div>
+
+	<div style="width:80%; float:left">
+        <h2>RM Harlin Erlianto Rahardjo</h2>
+        <span class="red">DIRECTOR</span>
+        <p>Indonesian Citizen, born in Jakarta in 1972.</p>
+        
+        <h3>WORK EXPERIENCE</h3>
+        <p>Serves as Director of the Company since 2013, with responsibility for Finance & Accounting and Commercial. He has concurrently served as President Director of PT Transcoal Pacific since 2009 and President Commissioner of PT Renjani Maritim Transportasi since 2008. He has previously served as Director of PT Visi Media Asia Tbk. (2011-2014), and Director of Operations for PT Cakrawala Andalas Televisi (2002-2006).</p>
+        
+        <h3>EDUCATION</h3>
+        <p>RM Harlin Erlianto Rahardjo earned a Bachelor degree in Engineering from Institut Teknologi Bandung, Indonesia majoring in Industrial Engineering in 1995 and  Master of Science degree from Columbia University, New York, USA in Industrial Engineering and Operations Research in 1997.</p>
+	</div>
+</div> <!-- 2 -->
+
+    <div id="posting2">
+	<div style="width:20%; float:left">
+    	<img src="direksi/JuliandusA.LumbanTobing.jpg" alt="Juliandus A. Lumban Tobing" id="thumbnail" width="141" height="204" />
+	</div>
+
+	<div style="width:80%; float:left">
+        <h2>Juliandus A. Lumban Tobing </h2>
+        <span class="red">INDEPENDENT DIRECTOR</span>
+        <p>Indonesian Citizen, born in Jakarta in 1964.</p>
+        
+        <h3>WORK EXPERIENCE</h3>
+        <p>He has served as the Independent Director of the Company responsible for Strategic Planning since 2013. He has concurrently served as Counsel in the MSA Law Office and Independent Legal Counsel since 2012. Previously he served as Director of PT Bakrie Telecom Tbk. (2006–2010), Director of PT Bakrie & Brothers Tbk. (2004–2008), Senior Legal Officer at PT Bank Dai-Chi Kanyo Indonesia (1997–1999), and Associate at Kusnandar & Associates Law Offices (1995–1997).</p>
+        
+        <h3>EDUCATION</h3>
+        <p>Juliandus A. Lumban Tobing earned Bachelor of Law degree from the University of Padjadjaran, Indonesia in 1990.</p>
+	</div>
+</div>    <!--3-->

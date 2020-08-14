@@ -1,0 +1,122 @@
+
+
+	
+	.normal { font-family: futura-2; font-size: 12px; font-weight: normal; font-variant: 
+normal; color: #000000; text-decoration: none} p { font-family: futura-2; font-size: 
+12px} p { font-style: normal; font-weight: normal; font-variant: normal; color: 
+#000000} a { font-family: futura-2; font-size: 12px; font-style: normal; font-weight: normal; text-decoration: 
+none; color: #000000} a:hover { font-size: 12px; font-family: futura-2; font-style: normal; background: none;} 
+
+.header {font-family: futura-2;
+	font-size: 12px;
+	color: #000000;
+	font-weight:bold;
+	}
+.footer {font-family: arial;
+	font-size: 8px;
+	color: #666666;
+	}
+/*
+.ul { font-family: futura-2; font-size: 12px;}
+.ol { font-family: futura-2; font-size: 12px;}
+.li { font-family: futura-2; font-size: 12px;}
+
+*/
+
+<!--
+@font-face {
+ 	font-family: futura-2;
+ 	src: url('futura-2.otf');
+ 	}
+	
+	
+body {
+	 background: #ffffff; /* #f2f2f2 */
+	 color: #555;
+	 font-size: 12px;
+	 text-shadow: 1px 1px 1px #fff;
+	 font-family: futura-2;
+	 font-style: normal;
+	 
+	 }
+#wrapper{
+	width:1200px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+ul { font-family: futura-2; font-size: 12px;}
+ol { font-family: futura-2; font-size: 12px;}
+li { font-family: futura-2; font-size: 12px;}
+
+.style1 {
+	font-family: futura-2;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.style2 {
+	
+	font-family: futura-2;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.style3 {
+	font-family: futura-2;
+	font-size: 14px;
+	color: #666666;
+	font-weight: bold;
+}
+.style4 {
+	font-family: futura-2;
+	font-size: 23px;
+	font-weight: bold;
+	color: #000000;
+}
+.style5 {
+	font-family: futura-2;
+	font-size: 30px;
+	font-weight: bold;
+	color: #666666;
+}
+.style6 {
+	font-family: futura-2;
+	color: #666666;
+	font-size: 35px}
+	
+.style7 {
+	font-family: futura-2;
+	color: #ed1367;
+	font-size: 25px}
+	
+.style8 {
+	font-family: futura-2;
+	color: #000;
+	font-size: 35px}
+	
+.style9 {
+	font-family: futura-2;
+	color: #FFF;
+	font-size: 60px}	
+
+.style10 {
+	font-family: futura-2;
+	color: #FFF;
+	font-size: 35px}
+	
+.style11 {
+	font-family: futura-2;
+	color: #b12138;
+	font-size: 12px;
+	font-weight:bold}
+	
+	a:hover { font-size: 
+12px; font-family: futura-2; font-style: normal; color: #b12138;
+	
+	}
+	.style14 {font-size: 24px; color: #999999; }
+-->
+</style>
+<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+

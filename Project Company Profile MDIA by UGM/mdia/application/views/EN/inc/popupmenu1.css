@@ -1,0 +1,258 @@
+
+.jqpopupmenu, jqpopupmenu a, jqpopupmenu li,jqpopupmenu div,
+.jqpopupmenu ul{ /*topmost and sub ULs, respectively*/
+font: normal 13px Verdana;
+margin: 0;
+padding: 0;
+position: absolute;
+left: 0;
+top: 0;
+list-style-type: none;
+background: white;
+border: 1px solid black;
+visibility: hidden;
+display: none; /*collapse all sub menus to begin with*/
+box-shadow: 3px 3px 8px #818181; /*shadow for CSS3 capable browsers.*/
+-webkit-box-shadow: 3px 3px 8px #818181;
+-moz-box-shadow: 3px 3px 8px #818181;
+}
+
+#jqpopupmenu
+{
+    display: block;
+    font-family: futura;
+    text-align: left; /*Specify the alignment of the whole UL if UL is not width:100%;*/
+    letter-spacing: normal;
+}
+
+#jqpopupmenu ul {
+    margin:0 auto;
+    padding: 0;
+    text-align: center; /* Alignment of each top-level menu items within the UL */
+    width: 100%;
+    font-size: 0;
+    background: #fff;
+    display: inline-block;
+    list-style: none;
+    position: relative;
+    z-index: 999999990;
+    border:none;
+	border-radius:2px;
+}
+
+#jqpopupmenu li {
+    margin:0;
+    padding:0;
+    font-size: 14px;
+    display: inline-block;
+    *display: inline;
+    zoom: 1; /*for IE6-7*/
+    position: relative;
+    color: #000;
+    line-height: 20px; /*This determines the height of the menu*/
+    vertical-align:middle;
+    transition: background-color 0.2s;
+    outline:none;
+	-moz-user-select:none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+
+.jqpopupmenu a { text-decoration: none; }
+
+.jqpopupmenu a:hover
+{
+    text-decoration:underline;
+	color: #b12138;
+}
+.jqpopupmenu {
+	display: block;
+	position: absolute;
+	cursor: inherit default;
+	z-index: 500;
+}
+
+
+.jqpopupmenu li{
+position: relative;
+}
+
+.jqpopupmenu li a{
+display: block;
+width: 160px; /*width of menu (not including side paddings)*/
+color: black;
+background: #F5F5F5;
+text-decoration: none;
+padding: 4px 5px;
+}
+
+* html .jqpopupmenu li{ /*IE6 CSS hack*/
+display: inline-block;
+width: 170px; /*width of menu (include side paddings of LI A*/
+}
+
+.jqpopupmenu li a:hover, .jqpopupmenu li.selected>a{
+background: #fff;
+
+}
+
+.rightarrowclass{
+position: absolute;
+top: 6px;
+right: 5px;
+}
+
+/* Menu List */
+.jqpopupmenu > li {
+	display: block;
+	float: left;
+}
+
+/* Menu Links */
+.jqpopupmenu > li > a {
+    position: relative;
+    display: block;
+    z-index: 510;
+    height: 27px;
+    padding: 0 10px;
+    line-height: 27px;
+    font-family: futura;
+    font-weight: bold;
+    font-size: 14px;
+    color: #000;
+    text-shadow: 0 0 1px rgba(0,0,0,.35);
+    background: #fff;
+    border-left: 2px solid #ccc;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    -ms-transition: all .3s ease;
+    transition: all .3s ease;
+}
+
+/*.nav > li:hover > a { background: #eee; }*/
+
+.jqpopupmenu > li:first-child > a {
+	border-radius: 3px 0 0 3px;
+	border-left: none;
+}
+
+
+/* Menu Dropdown */
+.jqpopupmenu > li > div {
+    position: absolute;
+    display: -moz-inline-box;
+    width: auto;
+    opacity: 0;
+    visibility: hidden;
+    overflow: hidden;
+    background: #ffffff;
+    border-radius: 0 0 3px 3px;
+    -webkit-transition: all .3s ease .15s;
+    -moz-transition: all .3s ease .15s;
+    -o-transition: all .3s ease .15s;
+    -ms-transition: all .3s ease .15s;
+    transition: all .3s ease .15s;
+    min-width: 200px;
+	border: 1px solid #CCC;
+	top: 25px;
+}
+
+.jqpopupmenu > li:hover > div {
+	opacity: 1;
+	visibility: visible;
+	overflow: visible;
+}
+
+
+/* Menu Content Styles */
+.jqpopupmenu .jqpopupmenu-column {
+	
+	text-align: left;
+    vertical-align: top; /*or middle*/
+    display: inline-block;
+    *display: inline;*zoom: 1;
+    white-space:normal;
+    width:200px;
+	padding:0 15px;
+	margin-bottom:20px;
+	margin-top:25px;
+	
+}
+
+.jqpopupmenu .jqpopupmenu-column h3 {
+	/*margin: 20px 0 10px 0;
+	line-height: 18px;
+	
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #372f2b;
+	text-transform: uppercase;*/
+	font-family: futura; 
+	font-weight: 500;
+    line-height: 1.1;
+    margin-top: 12px;
+    margin-bottom: 8px;
+    font-size: 24px;
+}
+
+.jqpopupmenu .jqpopupmenu-column h3.orange { color: #ff722b; }
+
+.jqpopupmenu .jqpopupmenu-column li a {
+	display: block;
+	line-height: 26px;
+	
+	font-family: futura;
+	font-weight: normal;
+	font-size: 16px;
+	color: #000;
+}
+
+.jqpopupmenu .jqpopupmenu-column li a:hover { color: #b12138; }
+
+/*Menu nav-colum-sub*/
+.jqpopupmenu .jqpopupmenu-column-sub {
+	
+	text-align: left;
+    vertical-align: top; /*or middle*/
+    display: inline-block;
+    *display: inline;*zoom: 1;
+    white-space:normal;
+    width:200px;
+	padding:0 15px;
+	margin-bottom:20px;
+	margin-top:25px;
+	
+}
+
+.jqpopupmenu .jqpopupmenu-column-sub h3 {
+	/*margin: 20px 0 10px 0;
+	line-height: 18px;
+	
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #372f2b;
+	text-transform: uppercase;*/
+	font-family: futura; 
+	font-weight: 500;
+    line-height: 1.1;
+    margin-top: 12px;
+    margin-bottom: 8px;
+    font-size: 24px;
+}
+
+.jqpopupmenu .jqpopupmenu-column-sub h3.orange { color: #ff722b; }
+
+.jqpopupmenu .jqpopupmenu-column-sub li a {
+	display: block;
+	line-height: 26px;
+	
+	font-family: futura;
+	font-weight: normal;
+	font-size: 16px;
+	color: #000;
+}
+
+.jqpopupmenu .jqpopupmenu-column-sub li a:hover { color: #b12138; }

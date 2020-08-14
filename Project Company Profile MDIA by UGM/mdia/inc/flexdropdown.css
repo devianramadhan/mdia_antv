@@ -1,0 +1,102 @@
+
+.flexdropdownmenu, .flexdropdownmenu ul{ /*topmost and sub ULs, respectively*/
+font: normal 12px Arial;
+margin: 0;
+padding: 0 5px;
+position: absolute;
+left: 0;
+top: 0;
+list-style-type: none;
+background: white;
+border: 1px #ccc;
+border-top:none;
+
+border-bottom-width: 0;
+visibility: hidden;
+display: none; /*collapse all sub menus to begin with*/
+box-shadow: 1px 1px 3px #818181; /*shadow for CSS3 capable browsers.*/
+/*-webkit-box-shadow: 3px 3px 8px #818181;
+-moz-box-shadow: 3px 3px 8px #818181;*/
+
+
+}
+
+
+.flexdropdownmenu li{
+position: relative;
+
+}
+
+.flexdropdownmenu li a{
+	text-align: left;
+    vertical-align: top; /*or middle*/
+    display: inline-table;
+    *display: inline;*zoom: 1;
+    white-space:normal;
+   	width:200px; 
+	padding:0 5px;
+	margin-bottom:3px;
+	margin-top:5px;
+}
+
+* html .flexdropdownmenu li{ /*IE6 CSS hack*/
+display: block;
+width: 200px; /*width of menu (include side paddings of LI A*/
+}
+
+.flexdropdownmenu li a:hover, .flexdropdownmenu li.selected>a{
+color: #d6222d;
+text-decoration:underline;
+}
+
+.rightarrowclass{
+position: absolute;
+top: 6px;
+right: 5px;
+}
+
+/*div*/
+
+.flexdropdownmenu div,
+.flexdropdownmenu form,
+#flexdropdownmenu {
+    display: block;
+    font-family: futura;
+    text-align: left;
+    letter-spacing: normal;
+}
+
+
+#flexdropdownmenu ul {
+    margin:0 auto;
+    padding: 0;
+    text-align: center; /* Alignment of each top-level menu items within the UL */
+    width: 100%;
+    font-size: 0;
+    background: #fff;
+    display: inline-block;
+    list-style: none;
+    position: relative;
+    z-index: 999999990;
+    border:none;
+	border-radius:2px;
+}
+
+#flexdropdownmenu li {
+    margin:0;
+    padding:0;
+    font-size: 14px;
+    display: inline-block;
+    *display: inline;
+    zoom: 1; /*for IE6-7*/
+    position: relative;
+    color: #000;
+    line-height: 20px; /*This determines the height of the menu*/
+    vertical-align:middle;
+    transition: background-color 0.2s;
+    outline:none;
+	-moz-user-select:none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+	

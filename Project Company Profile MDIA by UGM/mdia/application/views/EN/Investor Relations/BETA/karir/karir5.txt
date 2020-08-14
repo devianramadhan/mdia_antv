@@ -1,0 +1,24 @@
+<h5 class="head_title"><span>UNIT PRODUCTION MANAGEMENT</span></h5>
+<article>
+<p><strong>Responsibility :</strong></p>
+<p>Bertanggung jawab dalam memfasilitasi semua kegiatan produksi mulai dari membuat budgeting tiap program, melakukan survey lokasi, mengurus perijinan sampai dengan membuat laporan pertanggungjawaban.</p>
+
+<p><strong>Requirements :</strong></p>
+<ol class="normal">
+	<li>Pria / Wanita usia maksimal 28 tahun</li>
+	<li>Pendidikan min D3 semua jurusan</li>
+	<li>Pengalaman min 1th di posisi sejenis dalam industri televisi </li>
+	<li>Memiliki pengetahuan tentang proses dan alur kerja di dunia broadcast </li>
+	<li>Memiliki pengetahuan tentang budgeting</li>
+	<li>Teliti, tekun dan fokus pada detail</li>
+	<li>Mampu bekerja dalam tekanan</li>
+	<li>Memiliki kemampuan networking yang luas</li>
+	<li>Memiliki kemampuan komunikasi, kerjasama dan negoiasi yang baik</li>
+	<li>Bersedia bekerja tanpa batasan waktu sesuai dengan tuntutan profesi</li>
+
+</ol>
+
+<p>Kirim Lamaran Lengkap Ke E-mail : <a href="mailto:recruitment@an.tv">recruitment@an.tv</a> / <a href="mailto:hr@an.tv">hr@an.tv</a></p>
+<p># Hanya kandidat yang masuk kualifikasi yang akan kami proses #</p>
+
+</article>

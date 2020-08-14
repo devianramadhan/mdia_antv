@@ -1,0 +1,42 @@
+<h5 class="head_title"><span>PRESENTER / REPORTER</span></h5>
+<article>
+<p><strong>Responsibility :</strong></p>
+<ol class="normal">
+  <li>
+	Membuat transkrip verbatim dan time-coding wawancara dengan narasumber.
+  </li>
+  <li>
+	Membuat naskah audio-visual sesuai dengan Rancangan Akhir Alur Cerita yang ditetapkan.
+  </li>
+  <li>
+	Menyelesaikan laporan pertanggungjawaban budget peliputan bersama dengan Camera Person.
+  </li>
+  <li>
+	Melakukan riset, check call, korespondensi dengan pihak berwenang, dan pendekatan terhadap narasumber. 
+  </li>
+  <li>
+	Melakukan penggalian informasi di lapangan, pengembangan cerita (story development), serta visualisasi topik sesuai wishlist.
+  </li>
+  <li>
+	Melakukan pencarian talent, penyediaan properti, dan wardrobe sesuai dengan budget yang tersedia bersama dengan Camera Person
+  </li>
+</ol>
+
+<p><strong>Requirements :</strong></p>
+<ol class="normal">
+  <li>Pria/Wanita usia maksimal 28 tahun</li>
+  <li>Berpenampilan menarik</li>
+  <li>Fresh graduate atau pengalaman min 1 tahun di posisi sejenis dalam industri media</li>
+  <li>Pendidikan min S1 semua jurusan</li>
+  <li>Memiliki kemampuan komunikasi dan kerjasama yang baik</li>
+  <li>Menyukai pekerjaan sebagai jurnalis</li>
+  <li>Memiliki kemampuan menulis</li>
+  <li>Tertarik bekerja di industri media televisi dan menyukai pekerjaan yang dinamis</li>
+  <li>Memiliki kepribadian yang enerjik dan kreatif</li>
+  <li>Bersedia bekerja tanpa batasan waktu sesuai dengan tuntutan profesi dan lapangan</li>
+</ol>
+
+<p>Kirim Lamaran Lengkap Ke E-mail : <a href="mailto:recruitment@an.tv">recruitment@an.tv</a> / <a href="mailto:hr@an.tv">hr@an.tv</a></p>
+<p># Hanya kandidat yang masuk kualifikasi yang akan kami proses #</p>
+
+</article>

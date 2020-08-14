@@ -1,0 +1,53 @@
+    <div id="posting2">
+	<div style="width:20%; float:left">
+    	<img src="komisaris/AnindyaNovyanBakrie-2.jpg" alt="Anindya Novyan Bakrie" id="thumbnail2" width="141" height="206" />
+	</div>
+
+	<div style="width:80%; float:left">
+        <h2>Anindya Novyan Bakrie</h2>
+        <span class="red">Komisaris  Utama</span>
+        <p>Warga Negara Indonesia, lahir di Jakarta tahun 1974.</p>
+        
+        <h3>Riwayat Jabatan Dan Pengalaman Kerja</h3>
+        <p>Menjabat sebagai Komisaris Utama Perseroan sejak tahun 2013. Saat ini beliau juga menjabat sebagai Presiden Direktur PT Visi Media Asia Tbk. sejak tahun 2014, CEO PT Bakrie Global Ventura sejak 2012, Presiden Komisaris PT Lativi Mediakarya sejak tahun 2007, Presiden Komisaris PT Cakrawala Andalas Televisi sejak tahun 2009, Komisaris PT Bakrie Sumatera Plantations Tbk. sejak 2012 dan Komisaris Utama PT Bakrie Telecom Tbk. sejak tahun 2013.</p>
+        
+        <h3>Riwayat Pendidikan</h3>
+        <p>Anindya Novyan Bakrie memperoleh gelar Bachelor of Science dari Northwestern University, Illinois, Amerika Serikat jurusan Industrial Engineering pada tahun 1996 dan Master of Business Administration  dari Stanford Graduate School of Business-California, Amerika Serikat, pada tahun 2001.</p>
+	</div>
+</div>  <!--1-->
+
+    <div id="posting2">
+	<div style="width:20%; float:left">
+    	<img src="komisaris/IlhamAHabibie.jpg" alt="Ilham A. Habibie" id="thumbnail" width="141" height="204" />
+	</div>
+
+	<div style="width:80%; float:left">
+        <h2>Ilham A. Habibie</h2>
+        <span class="red">Komisaris Independen</span>
+        <p>Warga Negara Indonesia, lahir di Aachen tahun 1963.</p>
+        
+        <h3>Riwayat Jabatan Dan Pengalaman Kerja</h3>
+        <p>Menjabat sebagai Komisaris Independen Perseroan sejak akhir 2013. Beliau juga menjabat berbagai posisi saat ini sebagai Komisaris Utama PT Industri Mineral Indonesia sejak 2012, Komisaris PT Malacca Trust Wuwungan Insurance sejak 2011, Komisaris Utama PT Ilthabi Digital Edukasi sejak 2011, Komisaris Utama PT Ilthabi Energia sejak 2009, Komisaris Utama PT Ilthabi Sentra Herbal sejak 2005, Direktur NonEksekutif Mitra Energia Ltd. sejak 2004, Komisaris PT Citra Tubindo Tbk. sejak 2004, Direktur Utama PT Ilthabi Rekatama sejak 2002, dan Komisaris PT Metinca Prima Industrial Work sejak 2000. Sebelumnya beliau pernah menjabat sebagai Asisten Kepala BPPT untuk Aeronautika dan Teknologi Lanjutan (1996-1998), Dosen Fakultas Teknik Industri Institut Teknologi Bandung (1997-1999), Direktur Komersial PT Dirgantara Indonesia (Persero) (2000-2001), Direktur Operasional dan Komersial PT Dirgantara Indonesia (Persero) (1999-2000), Wakil Presiden Direktur Eksekutif Unit Bisnis Pesawat-Manajer Program N2130 Regional Jet PT Dirgantara Indonesia (Persero) (1997-1999), Wakil Presiden Direktur-Program Manager N2130 Regional Jet (1995-1997), dan Asisten Direktur Utama untuk Program N2130 Regional Jet (1994-1995).</p>
+        
+        <h3>Riwayat Pendidikan</h3>
+        <p>Ilham A. Habibie memperoleh gelar Diplomarbeit (Strata 2) dari Technische Universitat Munchen pada tahun 1987, gelar Dipl.,-Ing dari Technische Universitat Munchen jurusan Teknik Aeronautika pada tahun 1987, dan gelar Dr,-Ing dari Technische Universitat Munchen jurusan Teknik Aeronautika. Berhasil menyelesaikan Program Eksekutif Internasional di INSEAD, Perancis, dan Singapura pada tahun 1999, dan memperoleh gelar Master of Business Administration dari University of Chicago, Amerika Serikat untuk jurusan Bisnis pada tahun 2013.</p>
+	</div>
+</div><!-- 2 -->
+
+    <div id="posting2">
+	<div style="width:20%; float:left">
+    	<img src="komisaris/RobertusBismarkaKurniawan.jpg" alt="Robertus Bismarka Kurniawan" id="thumbnail" width="141" height="204" />
+	</div>
+
+	<div style="width:80%; float:left">
+        <h2>Robertus Bismarka Kurniawan</h2>
+        <span class="red">Komisaris</span>
+        <p>Warga Negara Indonesia, lahir di Jakarta tahun 1971.</p>
+        
+        <h3>Riwayat Jabatan Dan Pengalaman Kerja</h3>
+        <p>Menjabat sebagai Komisaris Perseroan sejak akhir 2013. Saat ini beliau juga menjabat sebagai Komisaris Utama PT. Digital Media Asia sejak 2015, Komisaris PT Bakrie Global Ventura sejak 2013, Wakil Presiden Direktur PT Visi Media Asia Tbk. sejak 2011, Komisaris PT Cakrawala Andalas Televisi sejak tahun 2009, dan Komisaris PT Lativi Mediakarya sejak tahun 2007.</p>
+        
+        <h3>Riwayat Pendidikan</h3>
+        <p>Robertus Bismarka Kurniawan memperoleh gelar Bachelor of Science di bidang Teknik Sipil dari University of Southern California, Amerika Serikat pada tahun 1993, gelar Master of Science jurusan Structural Engineering dari Cornell University, USA pada tahun 1994 diikuti gelar Master of Business Administration jurusan Finance and Investment Banking dari University of Winconsin-Madison, Amerika Serikat pada tahun 1995.</p>
+	</div>
+</div>    <!--3-->

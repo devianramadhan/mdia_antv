@@ -1,0 +1,21 @@
+<h5 class="head_title"><span>TECHNICIAN MECHANICAL ELECTRICAL (ME)</span></h5>
+<article>
+<p><strong>Responsibility :</strong></p>
+<p>Mengelola pemakaian, penyediaan dan kondisi AC, peralatan genset, PLN power, dan UPS, memberikan spesifikasi teknik peralatan tsb untuk digunakan sesuai dengan kebutuhan dan melakukan perawatan dan perbaikan secara periodic.</p>
+<p><strong>Requirements :</strong></p>
+<ol class="normal">
+  <li>Pria usia maksimum 30 tahun</li>
+  <li>Pendidikan minimal D3 Teknik Elektro</li>
+  <li>Pengalaman min 1 th diposisi sejenis</li>
+  <li>Memiliki pengetahuan tentang teknik elektro</li>
+  <li>Memiliki pengetahuan tentang AutoCAD dan Visio Drawing</li>
+  <li>Terbiasa menangani peralatan seperti AC, PLN Power, UPS dan Genset</li>
+  <li>Bersedia bekerja shift</li>
+  <li>Siap bekerja dimana saja</li>
+  <li>Memiliki kemampuan bekerjasama dan berkoordinasi yang baik</li>
+</ol>
+
+<p>Kirim Lamaran Lengkap Ke E-mail : <a href="mailto:recruitment@an.tv">recruitment@an.tv</a> / <a href="mailto:hr@an.tv">hr@an.tv</a></p>
+<p># Hanya kandidat yang masuk kualifikasi yang akan kami proses #</p>
+
+</article>

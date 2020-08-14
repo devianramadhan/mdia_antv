@@ -1,0 +1,165 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*CSS yang umum dipakai dalam halaman website */
+body{
+	font:normal 12px Verdana, Arial, Helvetica, sans-serif;
+	margin:0 0 0 0;
+	padding:0 0 0 0;
+	background-image:url('../images/theme/body.png');
+	background-position:top left;
+	background-repeat:repeat-x;
+}
+a{
+	font:normal 12px Verdana, Arial, Helvetica, sans-serif;
+	text-decoration:none;
+	color:#0066FF;
+}
+a.judul-halaman{
+	font:bold 18px Verdana, Arial, Helvetica, sans-serif;
+	color:#1284a5;
+}
+#wrapper{
+	width:900px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#header{
+	height:105px;
+}
+#header #logo{
+	width:400px;
+	float:left;
+}
+#header #share{
+	width:300px;
+	text-align:right;
+	float:right;
+	margin:60px 0 0 0;
+}
+#top-menu{
+	height:105px;
+	background-image:url('../images/theme/slogan.png');
+	background-position:550px -10px;
+	background-repeat:no-repeat;
+}
+#top-menu #navigasi{
+	height:35px;
+	margin:30px 0 0 0;
+}
+#top-menu #navigasi a{
+	font:bold 14px Verdana, Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	line-height:35px;
+	text-decoration:none;
+	padding:0 5px 0 5px;
+}
+#banner_web{
+	height:250px;
+	margin:0 0 20px 0;
+}
+#content{
+	color:#666666;
+	text-align:justify;
+	letter-spacing:0.2px;
+}
+#content p,#content ul li, #content ol li, #content a{
+	line-height:18px;
+}
+#posting{
+	display:block;
+	width:200px;
+	float:left;
+	margin:0 10px 0 0;
+}
+#headline #thumbnail{
+	display:block;
+	text-align:left;
+}
+a.judulBerita{
+	font:bold 14px Verdana, Arial, Helvetica, sans-serif;
+	display:block;
+	color:#1284a5;
+	text-decoration:none;
+}
+a.judulterkait{
+	font:bold 12px Verdana, Arial, Helvetica, sans-serif;
+	display:block;
+	color:#1284a5;
+	text-decoration:none;
+	background-image:url('../images/icons/bullet.png');
+	background-position:center left;
+	background-repeat:no-repeat;
+	padding:0 0 0 20px;
+}
+span.by{
+	font:normal 10px Verdana, Arial, Helvetica, sans-serif;
+	color:#666666;
+}
+p.more{
+	font:normal 12px Verdana, Arial, Helvetica, sans-serif;
+	text-align:left;
+}
+p.more a{
+	font-weight:bold;
+	color:#1284a5;
+	display:block;
+	text-decoration:underline;
+}
+a:hover{
+	color:#FF9900;
+}
+#footer{
+	height:42px;
+	background-image:url('../images/theme/footer.png');
+	background-position:top left;
+	background-repeat:repeat-x;
+}
+#footer #footer-dom{
+	width:900px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#footer p.copy{
+	font:normal 12px Verdana, Arial, Helvetica, sans-serif;
+	display:block;
+	width:300px;
+	float:left;
+	line-height:30px;
+	color:#FFFFFF;
+}
+
+/* Css untuk TAG HTML Standard */
+h1,h2,h3{
+	font:bold 18px Verdana, Arial, Helvetica, sans-serif;
+	margin:5px 0 5px 0;
+}
+h1.judul{
+	color:#1284a5;
+	display:block;
+	border-bottom:#dcdcdc 1px solid;
+	padding:0 0 5px 0;
+	line-height:30px;
+}
+/*CSS untuk bagian paging */
+span.nav{
+	font:bold 12px Verdana, Arial, Helvetica, sans-serif;
+	display:block;
+	text-align:center;
+	color:#666666;
+}
+span.nav a{
+	font:bold 12px Verdana, Arial, Helvetica, sans-serif;
+	color:#0099FF;
+}
+
+/*Span untuk warna */
+span.hijau{
+	color:#97c43d;
+}
+span.orange{
+	color:#FF9900;
+}
+span.blue{
+	color:#3d73b1;
+}

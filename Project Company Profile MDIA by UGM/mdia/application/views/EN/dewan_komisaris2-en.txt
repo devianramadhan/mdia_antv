@@ -1,0 +1,90 @@
+    <div id="posting2">
+	<div style="min-width:20%; float:left">
+    	<img src="komisaris/AnindyaNovyanBakrie-2.jpg" alt="Anindya Novyan Bakrie" id="thumbnail2" width="141" height="206" />
+	</div>
+
+	<div style="max-width:80%; float:left">
+        <h2>Anindya Novyan Bakrie</h2>
+        <span class="red">PRESIDENT COMMISSIONER</span>
+        <p>Indonesian citizen, born in Jakarta in 1974.</p>
+        
+        <h3>WORK EXPERIENCE</h3>
+        <p>He has served as President Commissioner of the Company. since 2013 based on Deed No. 115 dated December 11, 2013 drawn up by Humberg Lie, S.H., S.E., M. Kn., notary in Jakarta (“Act No. 115/2013). He has concurrently served as President Director of PT Visi Media Asia Tbk. since 2014, CEO of PT Bakrie Global Ventura since 2012, Commissioner of PT Lativi Mediakarya since 2017, as President Commissioner of PT Cakrawala Andalas Televisi since 2009, as Commissioner of PT Bakrie Sumatera Plantations Tbk. since 2012, and as President Commissioner of PT Bakrie Telecom Tbk since 2013.</p>
+        
+        <h3>EDUCATION</h3>
+        <p>Anindya Novyan Bakrie received his Bachelor of Science degree majoring in Industrial Engineering from Northwestern University, Illinois, USA and earned his MBA degree from Stanford Graduate School of BusinessCalifornia, USA in 2001.</p>
+	</div>
+</div>  <!--1-->
+
+    <div id="posting2">
+	<div style="min-width:20%; float:left">
+    	<img src="komisaris/RobertusBismarkaKurniawan.jpg" alt="Robertus Bismarka Kurniawan" id="thumbnail" width="141" height="204" />
+	</div>
+
+	<div style="max-width:80%; float:left">
+        <h2>Robertus Bismarka Kurniawan</h2>
+        <span class="red">COMMISSIONER</span>
+        <p>Indonesian citizen, born in Jakarta in 1971.</p>
+        
+        <h3>WORK EXPERIENCE</h3>
+        <p>He has served as a Commissioner of the Company since December 11, 2013 based on Deed No. 115/2013. He has concurrently served as President Commissioner of PT Digital Media Asia since 2015, Commissioner of PT Bakrie Global Ventura since 2013, Commissioner of PT Visi Media Asia Tbk. since 2017, Commissioner of PT Viva Media Baru since 2017, Commissioner of PT Cakrawala Andalas Televisi and PT Asia Global Media since 2009, and Commissioner of PT Lativi Mediakarya since 2007.</p>
+        
+        <h3>EDUCATION</h3>
+        <p>He earned a Bachelor of Science degree in Civil Engineering (Construction) from the University of Southern California, USA in 1993, Master of Engineering degree in Structural Engineering minoring in Business Administration at Cornell University, USA in 1994, and a Master of Business Administration degree in Finance, Investment and Banking from the University of Wisconsin-Madison, Wisconsin, USA in 1995.</p>
+	</div>
+</div>    <!--3-->
+
+    <div id="posting2">
+	<div style="min-width:20%; float:left">
+    	<img src="komisaris/Anindra Ardiansyah Bakrie.jpg" alt="Anindra Ardiansyah Bakrie" id="thumbnail" width="141" height="204" />
+	</div>
+
+	<div style="max-width:80%; float:left">
+        <h2>Anindra Ardiansyah Bakrie</h2>
+        <span class="red">COMMISSIONER</span>
+        <p>Indonesian citizen, born in Jakarta in 1979.</p>
+        
+        <h3>WORK EXPERIENCE</h3>
+        <p>He has served as the Commissioner of the Company since 2017. Currently he also serves as Vice President Director of PT Visi Media Asia Tbk., President Commissioner of PT Lativi Mediakarya since 2017, Commissioner of PT Cakrawala Andalas Televisi since 2017, President Commissioner of PT Viva Media Baru since 2017, and Director of PT Bakrie Global Ventura. Previously he also served as President Director of PT Viva Media Baru from 2012 to 2017, and Commissioner of PT Asia Global Media from 2009 to 2012.</p>
+        
+        <h3>EDUCATION</h3>
+        <p>Anindra Ardiansyah Bakrie earned his Bachelor of Science degree in Finance and International Business from Georgetown University, Washington DC, USA in 2001, and an M.B.A. in Finance from Bentley, McCallum Graduate School of Business, USA in 2005.</p>
+	</div>
+</div>    <!--4-->
+
+    <div id="posting2">
+	<div style="min-width:20%; float:left">
+    	<img src="komisaris/IlhamAHabibie.jpg" alt="Ilham A. Habibie" id="thumbnail" width="141" height="204" />
+	</div>
+
+	<div style="max-width:80%; float:left">
+        <h2>Ilham Akbar Habibie</h2>
+        <span class="red">INDEPENDENT COMMISSIONER</span>
+        <p>Indonesian citizen, born in Aachen in 1963.</p>
+        
+        <h3>WORK EXPERIENCE</h3>
+			<p>He has served as an Independent Commissioner of the Company since 2013 based on Deed No. 115/2013. He has concurrently served as President Commissioner PT Industri Mineral Indonesia from 2012, Commissioner of PT Malacca Trust Wuwungan Insurance from 2011, President Commissioner of PT Ilthabi Digital Edukasi from 2011, President Commissioner of PT Ilthabi Energia from 2009, President Commissioner of PT Ilthabi Sentra Herbal from 2005, Non-Executive Director of Mitra Energia Ltd. from 2004, Commissioner of PT Citra Tubindo Tbk. from 2004, President Director PT Ilthabi Rekatama from 2002, and Commissioner PT Metinca Prima Industrial Work from 2000. He previously served as Assistant Head of BPPT for Aeronotics and Advance Technology (1996–1998), Lecturer at the Faculty of Industrial Engineering-Institut Teknologi Bandung (1997– 1999), Commercial Director of PT Dirgantara Indonesia (2000–2001), Director of Operations and Commercial for PT Dirgantara Indonesia, (1999–2000), Executive Vice President Director Aircraft Business Unit-Program Manager for N2130 Regional Jet PT Dirgantara Indonesia (1997–1999), Vice President Director-Program Manager for N2130 Regional Jet (1995–1997), and Assistant President Director for Program N2130 Regional Jet (1994–1995).</p>
+        
+        <h3>EDUCATION</h3>
+        <p>Ilham A. Habibie obtained a Diplomarbeit (Graduate Degree) from the Technische Universität München in 1987, a Dipl.,- Ing in Aeronautical Engineering from Technische Universität München in 1987 and a Dr,-Ing from the Technische Universität München in Aeronautical Engineering. He successfully completed the International Executive Program at INSEAD, France, and Singapore in 1999, and earned a Master of Business Administration degree majoring in Business from the University of Chicago, USA in 2013.</p>
+	</div>
+</div><!-- 2 -->
+
+
+    <div id="posting2">
+	<div style="min-width:20%; float:left">
+    	<img src="komisaris/C. F. Carmelita Hardikusumo.jpg" alt="C. F. Carmelita Hardikusumo" id="thumbnail" width="141" height="204" />
+	</div>
+
+	<div style="max-width:80%; float:left">
+        <h2>C. F. Carmelita Hardikusumo</h2>
+        <span class="red">INDEPENDENT COMMISSIONER</span>
+        <p>Indonesian citizen born in Surabaya in 1964.</p>
+        
+        <h3>WORK EXPERIENCE</h3>
+			<p>He has served as Independent Commissioner of the Company since 2017. Currently she serve as Director of PT Adhiraksha (1995 - present), President Director of PT Andhini Nugraha (1998 - present), President Director of PT Andhika Lines (2005 – present), dan Commssioner of PT Andhika GAC (2005- Present). Previously she also served as Commissioner of PT Andhini Nugraha (1997-1998); Commissioner of PT Andhika Lines (1995-1997) dan Director of PT Andhika Lines (1997- 2005). Carmelita is also active in Chamber of Commerce and Industry (KADIN) and Central Board of Indonesian National Shipowner’s Association/INSA (DPP INSA). Several important positions have been held by her and currently she serves as Treasurer of KADIN (2013-Present) and Vice Chairman of Transportation of KADIN (November 2015-2020). He served as Chairman of DPP INSA for 2 periods, 2011-2015 and 2015-2019 as well as the first woman to hold the position.</p>
+        
+        <h3>EDUCATION</h3>
+        <p>C. F. Carmelita Hardikusumo, earned her MBA Finance degree from Webster University, USA in 1994.</p>
+	</div>
+</div><!-- 5 -->

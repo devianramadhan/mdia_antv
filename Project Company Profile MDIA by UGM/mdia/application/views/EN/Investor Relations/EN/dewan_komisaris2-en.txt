@@ -1,0 +1,53 @@
+    <div id="posting2">
+	<div style="width:20%; float:left">
+    	<img src="komisaris/AnindyaNovyanBakrie-2.jpg" alt="Anindya Novyan Bakrie" id="thumbnail2" width="141" height="206" />
+	</div>
+
+	<div style="width:80%; float:left">
+        <h2>Anindya Novyan Bakrie</h2>
+        <span class="red">PRESIDENT COMMISSIONER</span>
+        <p>Indonesian citizen, born in Jakarta in 1974.</p>
+        
+        <h3>WORK EXPERIENCE</h3>
+        <p>He has served as President Commissioner PT Intermedia Capital Tbk. since 2013. He has concurrently served as President Director of PT Visi Media Asia Tbk. since 2014, CEO of PT Bakrie Global Ventura since 2012, President Commissioner of PT Lativi Mediakarya since 2007, as President Commissioner of PT Cakrawala Andalas Televisi since 2009, as Commissioner of PT Bakrie Sumatera Plantations Tbk. since 2012, and as President Commissioner of PT Bakrie Telecom Tbk. since 2013.</p>
+        
+        <h3>EDUCATION</h3>
+        <p>Anindya Novyan Bakrie received his Bachelor of Science degree from Northwestern University, Illinois,USA majoring in Industrial Engineering in 1996 and earned his Master of Business Administration degree from Stanford Graduate School of Business-California, USA in 2001.</p>
+	</div>
+</div>  <!--1-->
+
+    <div id="posting2">
+	<div style="width:20%; float:left">
+    	<img src="komisaris/IlhamAHabibie.jpg" alt="Ilham A. Habibie" id="thumbnail" width="141" height="204" />
+	</div>
+
+	<div style="width:80%; float:left">
+        <h2>Ilham A. Habibie</h2>
+        <span class="red">INDEPENDENT COMMISSIONER</span>
+        <p>Indonesian citizen, born in Aachen in 1963.</p>
+        
+        <h3>WORK EXPERIENCE</h3>
+			<p>He has served as an Independent Commissioner of the Company since 2013. He has concurrently served as President Commissioner of PT Industri Mineral Indonesia since 2012, Commissioner of PT Malacca Trust Wuwungan Insurance since 2011, President Commissioner of PT Ilthabi Digital Edukasi since 2011, President Commissioner of PT Ilthabi Energia since 2009, President Commissioner of PT Ilthabi Sentra Herbal since 2005, Non-Executive Director of Mitra Energia Ltd. since 2004, Commissioner of PT Citra Tubindo Tbk. since 2004, President Director PT Ilthabi Rekatama since 2002, and Commissioner PT Metinca Prima Industrial Work since 2000. He previously served as Assistant Head of BPPT for Aeronautics and Advance Technology (1996–1998), Lecturer at the Faculty of Industrial Engineering-Institut Teknologi Bandung (1997–1999), Commercial Director of PT Dirgantara Indonesia (2000–2001), Director of Operations and Commercial for PT Dirgantara Indonesia (Persero) (1999–2000), Executive Vice President Director Aircraft Business Unit-Program Manager for N2130 Regional Jet PT Dirgantara Indonesia (Persero) (1997–1999), Vice President Director-Program Manager for N2130 Regional Jet (1995–1997), and Assistant President Director for Program N2130 Regional Jet (1994–1995).</p>
+        
+        <h3>EDUCATION</h3>
+        <p>Ilham A. Habibie obtained a Diplomarbeit (Graduate Degree) from the Technische Universität München in 1987, a Dipl.,-Ing from Technische Universität München majoring Aeronautical Engineering in 1987 and a Dr,-Ing from the Technische Universität München majoring Aeronautical Engineering in 1994. He successfully completed the International Executive Program at INSEAD, France, and Singapore in 1999, and earned a Master of Business Administration degree from the University of Chicago, USA majoring in Business in 2013.</p>
+	</div>
+</div><!-- 2 -->
+
+    <div id="posting2">
+	<div style="width:20%; float:left">
+    	<img src="komisaris/RobertusBismarkaKurniawan.jpg" alt="Robertus Bismarka Kurniawan" id="thumbnail" width="141" height="204" />
+	</div>
+
+	<div style="width:80%; float:left">
+        <h2>Robertus Bismarka Kurniawan</h2>
+        <span class="red">COMMISSIONER</span>
+        <p>Indonesian citizen, born in Jakarta in 1971.</p>
+        
+        <h3>WORK EXPERIENCE</h3>
+        <p>He has served as a Commissioner of the Company since 2013. He has concurrently served as President Commissioner of PT. Digital Media Asia since 2015, Commissioner of PT Bakrie Global Ventura since 2013, Vice President Director of PT Visi Media Asia Tbk. since 2011, Commissioner of PT Cakrawala Andalas Televisi since 2009, and Commissioner of PT. Lativi Mediakarya since 2007.</p>
+        
+        <h3>EDUCATION</h3>
+        <p>Robertus Bismarka Kurniawan earned a Bachelor of Science degree in Civil Engineering from the University of Southern California, USA in 1993, Master of Science degree majoring in Structural Engineering at Cornell University, USA in 1994, and a Master of Business Administration degree majoring in Finance, Investment and Banking from the University of Wisconsin-Madison, USA in 1995.</p>
+	</div>
+</div>    <!--3-->

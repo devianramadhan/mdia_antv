@@ -1,0 +1,307 @@
+/* Reset */
+@font-face {
+ 	font-family: futura-2;
+ 	src: url('futura-2.otf');
+ 	}
+	
+.nav,
+.nav a,
+.nav ul,
+.nav li,
+.nav div,
+.nav form,
+#nav {
+    display: block;
+    font-family: futura-2;
+    text-align: left;
+    letter-spacing: normal;
+}
+
+
+#nav ul {
+    margin:0 auto;
+    padding: 0;
+    text-align: center; /* Alignment of each top-level menu items within the UL */
+    width: 100%;
+    font-size: 0;
+    background: #fff;
+    display: inline-block;
+    list-style: none;
+    position: relative;
+    z-index: 999999990;
+    border:none;
+	border-radius:2px;
+}
+
+#nav li {
+    margin:0;
+    padding:0;
+    font-size: 14px;
+    display: inline-block;
+    *display: inline;
+    zoom: 1; /*for IE6-7*/
+    position: relative;
+    color: #000;
+    line-height: 20px; /*This determines the height of the menu*/
+    vertical-align:middle;
+    transition: background-color 0.2s;
+    outline:none;
+	-moz-user-select:none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+	
+.nav a { text-decoration: none; }
+
+.nav a:hover
+{
+    text-decoration:underline;
+	/*background:#CCCCCC;*/
+	color: #b12138;
+}
+
+/*.nav li { list-style: none; }
+
+/* Menu Container */
+.nav {
+	display: block;
+	position: relative;
+	cursor: default;
+	z-index: 500;
+}
+
+/* caret(arrow icon) */
+.nav > li > a > i.caret {
+    color: inherit;
+    width: 0;
+    height: 0;
+    overflow: hidden; /*for IE6*/
+    vertical-align: middle;
+    margin-bottom: 2px;
+    border-top: 4px solid; /*caret size is 4px now*/
+    border-right: 4px solid transparent;
+    border-left: 4px solid transparent;
+    display: inline-block;
+    position:relative;
+}
+
+/* Menu List */
+.nav > li {
+	display: block;
+	float: left;
+}
+
+/* Menu Links */
+.nav > li > a {
+    position: relative;
+    display: block;
+    z-index: 510;
+    height: 27px;
+    padding: 0 10px;
+    line-height: 27px;
+    font-family: futura-2;
+    font-weight: bold;
+    font-size: 14px;
+    color: #000;
+    text-shadow: 0 0 1px rgba(0,0,0,.35);
+    background: #fff;
+    border-left: 2px solid #ccc;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    -ms-transition: all .3s ease;
+    transition: all .3s ease;
+}
+
+/*.nav > li:hover > a { background: #eee; }*/
+
+.nav > li:first-child > a {
+	border-radius: 3px 0 0 3px;
+	border-left: none;
+}
+
+/* Search Form */
+.nav > li.nav-search > form {
+	
+	position:inherit;
+	width: 200px;
+	height: 54px;
+	z-index: 510;
+	border-left: 1px solid #4b4441;
+}
+
+.nav > li.nav-search input[type="text"] {
+	display: inherit;
+	float: left;
+	width: 1px;
+	height: 24px;
+	padding: 15px 0;
+	line-height: 24px;
+
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	font-size: 13px;
+	color: #999999;
+	text-shadow: 0 0 1px rgba(0,0,0,.35);
+
+	background: #372f2b;
+
+	-webkit-transition: all .3s ease 1s;
+	-moz-transition: all .3s ease 1s;
+	-o-transition: all .3s ease 1s;
+	-ms-transition: all .3s ease 1s;
+	transition: all .3s ease 1s;
+}
+
+.nav > li.nav-search input[type="text"]:focus { color: #fcfcfc; }
+
+.nav > li.nav-search input[type="text"]:focus,
+.nav > li.nav-search:hover input[type="text"] {
+	width: 110px;
+	padding: 10px 10px;
+
+	-webkit-transition: all .3s ease .1s;
+	-moz-transition: all .3s ease .1s;
+	-o-transition: all .3s ease .1s;
+	-ms-transition: all .3s ease .1s;
+	transition: all .3s ease .1s;
+}
+
+.nav > li.nav-search input[type="submit"] {
+	display: block;
+	float: left;
+	width: 20px;
+	height: 54px;
+	padding: 0 25px;
+	cursor: pointer;
+
+	background: #372f2b url(../img/search-icon.png) no-repeat center center;
+
+	border-radius: 0 3px 3px 0;
+
+	-webkit-transition: all .3s ease;
+	-moz-transition: all .3s ease;
+	-o-transition: all .3s ease;
+	-ms-transition: all .3s ease;
+	transition: all .3s ease;
+}
+
+.nav > li.nav-search input[type="submit"]:hover { background-color: #4b4441; }
+
+/* Menu Dropdown */
+.nav > li > div {
+    position: absolute;
+    display: -moz-inline-box;
+    width: auto;
+    opacity: 0;
+    visibility: hidden;
+    overflow: hidden;
+    background: #ffffff;
+    border-radius: 0 0 3px 3px;
+    -webkit-transition: all .3s ease .15s;
+    -moz-transition: all .3s ease .15s;
+    -o-transition: all .3s ease .15s;
+    -ms-transition: all .3s ease .15s;
+    transition: all .3s ease .15s;
+    min-width: 200px;
+	border: 1px solid #CCC;
+	top: 25px;
+}
+
+.nav > li:hover > div {
+	opacity: 1;
+	visibility: visible;
+	overflow: visible;
+}
+
+/* Menu Content Styles */
+.nav .nav-column {
+	
+	text-align: left;
+    vertical-align: top; /*or middle*/
+    display: inline-table;
+    *display: inline;*zoom: 1;
+    white-space:normal;
+   width:200px; 
+	padding:0 15px;
+	margin-bottom:20px;
+	margin-top:10px;
+	
+}
+
+.nav .nav-column h3 {
+	/*margin: 20px 0 10px 0;
+	line-height: 18px;
+	
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #372f2b;
+	text-transform: uppercase;*/
+	font-family: futura-2; 
+	font-weight: 500;
+    line-height: 1.1;
+    margin-top: 12px;
+    margin-bottom: 8px;
+    font-size: 24px;
+}
+
+.nav .nav-column h3.orange { color: #ff722b; }
+
+.nav .nav-column li a {
+    display: block;
+    line-height: 26px;
+    font-family: futura-2;
+    font-weight: normal;
+    font-size: 12px;
+    color: #000;
+    display: -moz-grid-line;
+}
+
+.nav .nav-column li a:hover { color: #b12138; }
+
+/*Menu nav-colum-sub*/
+.nav .nav-column-sub {
+	
+	text-align: left;
+    vertical-align: top; /*or middle*/
+    display: inline-block;
+    *display: inline;*zoom: 1;
+    white-space:normal;
+	width:200px;
+	padding:0 15px;
+	margin-bottom:20px;
+	margin-top:25px;
+	
+}
+
+.nav .nav-column-sub h3 {
+	/*margin: 20px 0 10px 0;
+	line-height: 18px;
+	
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #372f2b;
+	text-transform: uppercase;*/
+	font-family: futura-2; 
+	font-weight: 500;
+    line-height: 1.1;
+    margin-top: 12px;
+    margin-bottom: 8px;
+    font-size: 24px;
+}
+
+.nav .nav-column-sub h3.orange { color: #ff722b; }
+
+.nav .nav-column-sub li a {
+	display: table-cell;
+	line-height: 26px;
+	
+	font-family: futura-2;
+	font-weight: normal;
+	font-size: 16px;
+	color: #000;
+}
+
+.nav .nav-column-sub li a:hover { color: #b12138; }

@@ -1,0 +1,140 @@
+
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="inc/mdia.css">
+<link rel="stylesheet" type="text/css" href="inc/popupmenu.css" />
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript" src="inc/popupmenu.js"></script>
+<style>
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 3px 3px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    margin: 4px 3px 0px 0px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+	float:right;
+}
+.button3 {
+    background-color: white; 
+    color: black; 
+    border: 1px solid #cc0000;
+}
+.button3:hover {
+    background-color: #cc0000;
+    color: white;
+}
+.button3.kiri {
+    margin-right: 0px !important;
+}
+
+.button2 {
+    background-color: #cc0000; 
+    color: white; 
+    border: 1px solid #cc0000;
+}
+
+.button2.kiri {
+    margin-right: 0px !important;
+}
+
+
+</style>    
+
+</head>
+
+<body>
+<div id="wrapper">
+	<div id="header">
+		
+		<div id="share">
+			<a href="#"><button class="button button2">EN</button></a>
+            <a href="../index.php"><button class="button button3 kiri">ID</button></a>
+		</div>
+	</div>
+    <div id="top-menu">
+		<div id="navigasi">
+        
+			<a href="index.php">Home</a>
+			<a href="#" data-popupmenu="popmenu1">About Us</a>
+			<a href="#" data-popupmenu="popmenu2">Investor Relations</a>
+			<a href="#" data-popupmenu="popmenu3">Corporate Governance</a>
+			<a href="CSR.php">Corporate Social Responsibility</a>
+            <a href="contact-us.php">Contact Us</a>
+            <a href="http://www.an.tv/career" target="_blank">Career</a>
+
+
+            <!--HTML for popup Menu 1-->
+            <ul id="popmenu1" class="jqpopupmenu">
+            	<li><a href="corporate-overview.php">Corporate Overview</a></li>
+                 <li><a href="#">Management</a>
+                    <ul>
+					 <li><a href="message-from-president-director.php">Message from President Director</a></li>
+                    <li><a href="Board-Of-Commissioners.php">Board Of Commissioners</a></li>
+                    <li><a href="Board-Of-Directors.php">Directors</a></li>
+                    </ul>
+                 </li>
+           		 
+                <li><a href="struktur-organisasi.php">Corporate Structure</a></li>
+                <li><a href="struktur-group.php">Company Group Structure</a></li>
+                <li><a href="our-business.php">Our Business</a></li>
+                <li><a href="awards.php">Awards And Certifications</a></li>
+                <li><a href="profesional-institution.php">Capital Market Supporting Agencies</a></li>
+            </ul>
+            
+            <!--HTML for popup Menu 2-->
+            <ul id="popmenu2" class="jqpopupmenu">
+            <li><a href="Corporate_Fact_Sheet.php">Corporate Fact Sheet</a></li>
+					<li><a href="annual-report.php">Annual Report</a></li>
+                    <li><a href="#">Financial Information</a>
+                         	<ul style="padding-left:20px;">
+                               <li><a href="Investor Relations/Financial-Highlights-MDIA-2016-website.pdf" target="_blank">Financial Highlights<i class="caret"></i></a></li>
+                                <li><a href="financial-statements.php">Financial Statements</a></li>
+                             </ul>
+                                   
+                    </li>
+						<li><a href="presentasi_press_release.php">Presentation And Press Release</a></li>
+						<li><a href="prospectus.php">Prospectus</a></li>
+                        <li><a href="shareholders-composition.php">Shareholders Composition</a></li>
+                        <li><a href="shares-information.php">Shares Information</a></li>
+                    	<li><a href="dividend.php">Dividend</a></li>                        
+						<li><a href="GSM.php">General Meeting of Shareholders</a></li>
+						<li><a href="publicexpose.php">Public Expose</a></li>
+            </ul>
+            
+            <!--HTML for popup Menu 3-->
+            <ul id="popmenu3" class="jqpopupmenu">
+            
+            <li><a href="#">Corporate Governance Instruments</a>
+                <ul>
+				
+                <li><a href="audit_committee.php">Audit Committee</a></li>
+				<li><a href="nomination-remuneration-committee.php">Nomination And Remuneration Committee</a></li>
+                <li><a href="risk-management-committee.php">Risk Management Committee</a></li>
+				<li><a href="corporate-secretary.php">Corporate Secretary</a></li>
+                <li><a href="internal-audit-unit.php">Internal Audit Unit</a></li>                
+                </ul>
+            </li>
+            <li><a href="#">Corporate Governance Documents</a>
+                <ul>
+                <li><a href="Corporate Governance/Articles-of-Association-PT.Intermedia-Capital-Tbk.pdf" target="_blank">Articles of Association</a></li>
+				<li><a href="Corporate Governance/2017/Work_Guidelines_of_BoC_Charter.pdf" target="_blank">Board Of Commissioners Charter</a></li>
+                <li><a href="Corporate Governance/2017/Work_Guidelines_of_BoD.pdf" target="_blank">Board Of Directors Charter</a></li>
+                <li><a href="Corporate Governance/CODE_OF_ETHICS_MDIA2_2017.pdf" target="_blank">Code Of Ethics</a></li>
+				<li><a href="Corporate Governance/Audit-Committee-Charter.pdf" target="_blank">Audit Committee Charter</a></li>
+				<li><a href="Corporate Governance/Nomination-And-Remuneration-Charter.pdf" target="_blank">Nomination And Remuneration Charter</a></li>
+                <li><a href="Corporate Governance/Internal-Audit-Charter-PT-Intermedia-Capital.pdf" target="_blank">Internal Audit Charter</a></li>
+                <li><a href="Corporate Governance/Whistleblowing-System-PT.Intermedia-Capital-Tbk..pdf" target="_blank">WBS Charter</a></li>
+				<li><a href="Corporate Governance/2017/IMC_SHAREHOLDERS_COMMUNICATION_POLICY.pdf" target="_blank">Shareholders Communication Policy</a></li>
+                </ul>
+            </li>
+            </ul>
+    	</div> <!--end navigasi-->
+	</div> <!-- end top menu-->
+    
+</div> <!--end wrapper-->  

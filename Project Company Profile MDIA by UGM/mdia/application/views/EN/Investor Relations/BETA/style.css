@@ -1,0 +1,6 @@
+#menu ul{ margin: 0; padding: 0; list-style: none; } 
+#menu ul li{ position: relative; float: left; padding-left:40px; padding-right:30px; /*width: 199px; supaya menu rapih*/} 
+#menu li ul{ position: absolute; top: 30px; display: none; } 
+#menu ul li a{ display: block; text-decoration: none; line-height: 20px; color: #FFF; padding: 5px; background: #b21d31; /*background menu*/margin: 0; text-align: center; font-family: Arial, Helvetica, sans-serif; } 
+#menu ul li a:hover{ background: #CCCCCC; } 
+#menu li:hover ul, li.hover ul{ display: block; } 
